@@ -1,12 +1,12 @@
 
 {
   "manifest_version": 2,
-  "name": "Microsoft Copilot Sidebar",
+  "name": "ChatGPT Sidebar",
   "version": "0.1",
-  "description": "Opens Microsoft Copilot in the sidebar",
+  "description": "Opens ChatGPT in the sidebar",
   "sidebar_action": {
-    "default_title": "Microsoft Copilot",
-    "default_panel": "copilot.html",
+    "default_title": "ChatGPT",
+    "default_panel": "gpt.html",
     "default_icon": "icon.svg"
   },
 
@@ -22,7 +22,7 @@
   },
 
   "browser_action": {
-    "default_title": "Open Microsoft Copilot in the sidebar",
+    "default_title": "Open ChatGPT in the sidebar",
     "default_icon": {
       "16": "icon.svg",
       "32": "icon.svg"
