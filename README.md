@@ -8,6 +8,8 @@ by Afonso Brás Sousa
 
 A fork of my own repo [CopilotSidebar](https://github.com/abtsousa/CopilotSidebar).
 
+This extension is Firefox-only for now. You can find many alternatives available for Chromium-based browsers (Chrome, Opera, Brave).
+
 Open ChatGPT while browsing with this nifty simple toolbar extension.
 
 ## Privacy
